@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(../images/popcorn.webp);
+height: 470px;
+/* background-repeat: no-repeat; */
+background-size: cover;
+background-position: left;
+position: relative;
+
+
+}
+
+.description{
+
+background-color: #00d1b298;
+border-radius: 25px;
+
+}
+
+.block-container {
+  margin: 25px 0;
+  padding: 12px 0;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  justify-content: space-between;
+  
+}
+
+
