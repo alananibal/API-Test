@@ -1,25 +1,7 @@
-// OMDB
-// Here is your key: a82e041
-// Please append it to all of your API requests,
-// OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=a82e041
-// Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=67bca831-879e-4649-a903-4340d4dcc727
-// If you did not make this request, please disregard this email.
-//
-// --------------------------------------------------------------------------------------------------------
-// Giphy
-// Key: "E1Nyp3nLmOcDCuxWhDaoGASokkuweu2T"
-//
-// ----------------------------------------------------------------------------------------------------
-// IMDB
-// Key
-// In theatres
-// URL: https://imdb-api.com/en/API/InTheaters/k_57knyc4o
-// Coming sooon
-// URL https://imdb-api.com/en/API/ComingSoon/k_57knyc4o
-// Advanced search
-// URL https://imdb-api.com/API/AdvancedSearch/k_57knyc4o?title=
-// 
-// "https://www.imdb.com/title/" + 
+// Shopfy Key
+// 01c485862cfdbcbb62874bcada3d5a0b
+// Token  
+// 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
 
 
 var entryValue = document.getElementById("entry-value");
